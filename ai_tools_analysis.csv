@@ -1,0 +1,22 @@
+Tool,Link,Description,Overall_Rating,Speed,Accuracy,Creativity,Technical,Cost_Effectiveness,Total_Score,Category
+Lovable,https://lovable.dev,AI platform for rapid prototyping and full-stack development,4,8,7,8,8,7,38,Balanced
+Bolt,https://bolt.new,Web-based IDE with AI assistant for instant deployment,4,8,7,8,8,7,38,Balanced
+Kimi AI,https://www.kimi.com/,Intelligent assistant powered by advanced large language models,4,6,9,8,9,10,42,Free/Open Source
+ZAI Chat,https://chat.z.ai/,"Conversational AI optimized for reasoning, coding help, and general productivity",4,8,7,7,8,10,40,Free/Open Source
+Trae AI,https://trae.ai,AI debugging and code explanation tool that integrates into your dev environment,5,8,8,8,9,8,41,Technical Excellence
+Phind,https://www.phind.com/,"AI-powered assistant designed to help with debugging, explaining code, and answering technical questions",5,8,9,9,8,10,44,Free/Open Source
+Firebase Studio,https://studio.firebase.google.com/,AI-enhanced dashboard for Firebase with powerful tools to manage databases,4,8,8,9,9,9,43,Free/Open Source
+Blackbox AI,https://blackbox.ai,AI coding assistant and code search engine,4,7,7,7,8,7,36,Balanced
+GitHub Copilot,https://github.com/features/copilot,AI pair programmer integrated with VS Code,5,8,9,8,9,7,41,Technical Excellence
+Codeium,https://codeium.com,Free alternative to GitHub Copilot with support for 70+ languages,4,8,8,7,8,7,38,Balanced
+Cursor,https://cursor.sh,AI-first code editor with advanced code understanding,5,8,9,8,9,7,41,Technical Excellence
+Claude AI,https://claude.ai,"Versatile AI assistant excellent for code review, debugging, and architecture planning",5,8,9,9,9,7,42,Technical Excellence
+Replit AI,https://replit.com,Cloud-based IDE with AI assistant for coding and debugging,4,8,8,7,8,6,37,Balanced
+v0 by Vercel,https://v0.dev,AI tool for generating React components and UI,5,9,9,9,9,7,43,Technical Excellence
+ChatGPT,https://chatgpt.com,General-purpose AI with strong coding capabilities,4,9,8,8,8,8,41,High Performance
+Amazon Q Developer,https://aws.amazon.com/q/developer/,AWS-native AI coding assistant (formerly CodeWhisperer),4,8,8,7,8,8,39,Balanced
+Zed Editor,https://zed.dev,"Ultra-fast, multiplayer code editor with built-in AI capabilities",4,8,8,8,8,7,39,Balanced
+Windsurf Editor,https://windsurf.codeium.com,AI-powered IDE by Codeium designed to enhance developer productivity,4,8,8,8,8,7,39,Balanced
+Aider,https://aider.chat,AI pair programming in your terminal,4,8,8,8,8,8,40,Balanced
+Continue,https://continue.dev,Open-source AI code assistant that brings ChatGPT to your IDE,4,8,8,8,8,8,40,Balanced
+Sourcegraph Cody,https://www.sourcegraph.com/cody,AI coding assistant that understands your entire codebase,4,8,8,8,8,7,39,Balanced
