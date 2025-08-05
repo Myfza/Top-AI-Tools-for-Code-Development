@@ -58,8 +58,8 @@ Each tool is evaluated based on the following criteria:
 | AI Tool               | Speed | Accuracy | Creativity | Technical | Cost-Effectiveness |
 |-----------------------|:-----:|:--------:|:----------:|:---------:|:------------------:|
 | Lovable               |  9/10 |   9/10   |    9/10    |   9/10    |       8/10         |
-| Bolt                  |  9/10 |   8/10   |    8/10    |   8/10    |       9/10         |
-| GitHub Copilot        |  8/10 |   9/10   |    8/10    |   9/10    |       7/10         |
+| Bolt                  |  9/10 |   8/10   |    8/10    |   8/10    |       7/10         |
+| GitHub Copilot        |  8/10 |   9/10   |    8/10    |   9/10    |       8/10         |
 | Codeium               |  8/10 |   8/10   |    7/10    |   8/10    |      10/10         |
 | Cursor                |  8/10 |   9/10   |    8/10    |   9/10    |       8/10         |
 | Claude AI             |  8/10 |   9/10   |    9/10    |   9/10    |       7/10         |
@@ -73,11 +73,11 @@ Each tool is evaluated based on the following criteria:
 | Aider                 |  7/10 |   8/10   |    7/10    |   8/10    |       9/10         |
 | Continue              |  7/10 |   8/10   |    7/10    |   8/10    |      10/10         |
 | Sourcegraph Cody      |  8/10 |   8/10   |    7/10    |   9/10    |       7/10         |
-| Kimi AI               |  7/10 |   8/10   |    9/10    |   7/10    |       8/10         |
+| Kimi AI               |  6/10 |   9/10   |    8/10    |   7/10    |       8/10         |
 | ZAI Chat              |  8/10 |   8/10   |    8/10    |   7/10    |       9/10         |
 | Trae AI               |  7/10 |   9/10   |    6/10    |   9/10    |       8/10         |
 | Firebase Studio       |  8/10 |   8/10   |    7/10    |   9/10    |       9/10         |
-| Blackbox AI      |  8/10 |   7/10   |    6/10    |   7/10    |       6/10         |
+| Blackbox AI           |  8/10 |   7/10   |    6/10    |   7/10    |       6/10         |
 ---
 
 ## 🏆 Top Recommendations
