@@ -155,70 +155,29 @@ daily coding tasks.
 ## 3. Comparative Analysis of Alternatives
 
   -------------------------------------------------------------------------------------
-  Tool          Strengths                   Weaknesses           Best For
-  ------------- --------------------------- -------------------- ----------------------
-  Lovable       Full-stack MVP builder with Moderate             Prototype builders
-                clean code                  cost-effectiveness   
-
-  Bolt          Fast prototyping with       Limited advanced     Hackathons, demos
-                deployment                  logic support        
-
-  Kimi AI       Multilingual assistant for  Less focused on deep Writers, planners
-                summarizing/brainstorming   coding               
-
-  ZAI Chat      Lightweight coding and      Basic functionality  Daily productivity
-                reasoning AI                                     
-
-  Trae AI       In-editor debugging and     Narrower scope       Junior devs, debugging
-                error explanation                                
-
-  Phind         Excellent accuracy and      No direct editor     Productive backend
-                debugging                   integration          devs
-
-  Firebase      AI natural-language queries Platform-specific    Firebase app managers
-  Studio        for Firebase                                     
-
-  Blackbox AI   Quick code snippet          Lower accuracy       Browser-based coders
-                retrieval                                        
-
-  GitHub        Great IDE integration, high Limited creativity,  Regular VS Code users
-  Copilot       accuracy                    cost after trial     
-
-  Codeium       Free unlimited autocomplete Slightly less        Students, open-source
-                                            creative             devs
-
-  Cursor        Smart refactoring and       Requires setup       Legacy code
-                explanation                 learning curve       maintainers
-
-  Claude AI     Great reasoning,            Occasional           System designers
-                architecture aid            hallucination        
-
-  Replit AI     Cloud IDE with AI and       Limited advanced     Beginners, educators
-                deployment                  integrations         
-
-  v0 by Vercel  Rapid clean React UI        Less backend support Frontend/UI developers
-                generation                                       
-
-  ChatGPT       Versatile reasoning and     Not editor-native    Learning,
-                code understanding                               experimentation
-
-  Amazon Q      AWS-native AI support       Less flexible        Cloud developers
-  Developer                                 outside AWS          
-
-  Zed Editor    Fast IDE with multiplayer & Needs API key setup  Collab developers
-                AI                                               
-
-  Windsurf      Enhanced AI IDE by Codeium  Still evolving       Productivity-focused
-  Editor                                                         devs
-
-  Aider         Terminal-based Git-aware    Not visual           CLI devs, Git users
-                assistant                                        
-
-  Continue      Open-source                 Setup required       Privacy-conscious
-                privacy-friendly IDE AI                          coders
-
-  Sourcegraph   Deep codebase context       Enterprise focus     Large project teams
-  Cody          understanding                                    
+| Tool           | Strengths                                           | Weaknesses                    | Best For                     |
+|----------------|-----------------------------------------------------|-------------------------------|------------------------------|
+| **Lovable**     | Full-stack MVP builder with clean code             | Moderate cost-effectiveness   | Prototype builders           |
+| **Bolt**        | Fast prototyping with deployment                   | Limited advanced logic support | Hackathons, demos            |
+| **Kimi AI**     | Multilingual assistant for summarizing/brainstorming | Less focused on deep coding   | Writers, planners            |
+| **ZAI Chat**    | Lightweight coding and reasoning AI                | Basic functionality           | Daily productivity           |
+| **Trae AI**     | In-editor debugging and error explanation          | Narrower scope                | Junior devs, debugging       |
+| **Phind**       | Excellent accuracy and debugging                   | No direct editor integration  | Productive backend devs      |
+| **Firebase Studio** | AI natural-language queries for Firebase        | Platform-specific             | Firebase app managers        |
+| **Blackbox AI** | Quick code snippet retrieval                       | Lower accuracy                | Browser-based coders         |
+| **GitHub Copilot** | Great IDE integration, high accuracy             | Limited creativity, cost after trial | Regular VS Code users |
+| **Codeium**     | Free unlimited autocomplete                        | Slightly less creative        | Students, open-source devs   |
+| **Cursor**      | Smart refactoring and explanation                  | Requires setup, learning curve | Legacy code maintainers     |
+| **Claude AI**   | Great reasoning, architecture aid                  | Occasional hallucination      | System designers             |
+| **Replit AI**   | Cloud IDE with AI and deployment                   | Limited advanced integrations | Beginners, educators         |
+| **v0 by Vercel**| Rapid clean React UI generation                    | Less backend support          | Frontend/UI developers       |
+| **ChatGPT**     | Versatile reasoning and code understanding         | Not editor-native             | Learning, experimentation    |
+| **Amazon Q Developer** | AWS-native AI support                        | Less flexible outside AWS     | Cloud developers             |
+| **Zed Editor**  | Fast IDE with multiplayer & AI                     | Needs API key setup           | Collab developers            |
+| **Windsurf Editor** | Enhanced AI IDE by Codeium                    | Still evolving                | Productivity-focused devs    |
+| **Aider**       | Terminal-based Git-aware assistant                 | Not visual                    | CLI devs, Git users          |
+| **Continue**    | Open-source, privacy-friendly IDE AI              | Setup required                | Privacy-conscious coders     |
+| **Sourcegraph Cody** | Deep codebase context understanding           | Enterprise focus              | Large project teams          |                                   
   -------------------------------------------------------------------------------------
 **Note:** The table is not exhaustive, and the ratings are subjective and based on the author
 ## 🚀 How to Use This Repository
