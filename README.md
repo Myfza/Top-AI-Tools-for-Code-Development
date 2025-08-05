@@ -154,7 +154,6 @@ daily coding tasks.
 
 ## 3. Comparative Analysis of Alternatives
 
-  -------------------------------------------------------------------------------------
 | Tool           | Strengths                                           | Weaknesses                    | Best For                     |
 |----------------|-----------------------------------------------------|-------------------------------|------------------------------|
 | **Lovable**     | Full-stack MVP builder with clean code             | Moderate cost-effectiveness   | Prototype builders           |
@@ -178,7 +177,9 @@ daily coding tasks.
 | **Aider**       | Terminal-based Git-aware assistant                 | Not visual                    | CLI devs, Git users          |
 | **Continue**    | Open-source, privacy-friendly IDE AI              | Setup required                | Privacy-conscious coders     |
 | **Sourcegraph Cody** | Deep codebase context understanding           | Enterprise focus              | Large project teams          |                                   
-  -------------------------------------------------------------------------------------
+
+ 
+-------------------------------------------------------------------------------------
 **Note:** The table is not exhaustive, and the ratings are subjective and based on the author
 ## 🚀 How to Use This Repository
 
