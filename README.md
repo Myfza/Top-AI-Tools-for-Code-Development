@@ -1,8 +1,9 @@
 # 🤖 AI Development Tools Research
-A curated research project exploring cutting-edge AI tools that specialize in code generation, code completion, and developer productivity. This repository provides a comparative analysis of popular tools like Github Copilot, Cursor, Continue, Claude and more—evaluating their features, language support, pricing, and performance.
-## Research Overview
+A curated research by Muhammad Yusuf Aditiya on AI tools for code generation and developer productivity, comparing features, language support, pricing, and performance.
 
-This repository contains comprehensive research on free AI tools useful for coding and development. This study explores various AI platforms that can assist developers in the software development process, from code generation and debugging to deployment.
+## Research Overview
+This repository contains a curated and independently conducted research project by Muhammad Yusuf Aditiya, focused on exploring AI tools that can assist developers in the software development process, from code generation and debugging to deployment.
+It provides a comparative analysis of both free and paid tools, evaluating each based on key criteria including features, programming language support, usability, pricing model, and real-world performance. This research aims to help developers, students, and technical professionals make informed decisions when selecting AI-powered solutions for their coding workflows.
 
 ## Research Objectives
 
@@ -18,7 +19,7 @@ Each tool is evaluated based on the following criteria:
 - **Accuracy**: Code quality and correctness
 - **Creativity**: Ability to generate innovative solutions
 - **Technical**: Advanced features and technical capabilities
-- **Cost-Effectiveness**: Value provided in free tier
+- **Cost-Effectiveness**: Value provided in free tier and paid tier
 
 ## AI Development Tools
 
